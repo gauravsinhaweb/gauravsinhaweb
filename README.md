@@ -1,4 +1,3 @@
-
 ### Hey, I'm Gaurav Sinha [website] 👋
 
 [![Website](https://img.shields.io/badge/gauravsinhaweb.com-up-green)](https://gauravsinhaweb.com)
@@ -16,12 +15,11 @@
 
 [<img align="left" alt="https://twitter.com/gauravsinhaweb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="gaurav-sinha-032386187/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gauravsinha18._ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gauravsinhaweb._ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
-
 
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 
@@ -30,7 +28,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -58,8 +55,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="gauravsinha18's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gauravsinha18&show_icons=true&hide_border=true" />
-
+  <img align="left" alt="gauravsinhaweb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gauravsinhaweb&show_icons=true&hide_border=true" />
 
 [website]: https://gauravsinhaweb.com
 [twitter]: https://twitter.com/gauravsinhaweb
