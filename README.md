@@ -1,6 +1,6 @@
 ### Hey, I'm Gaurav Sinha [website] 👋
 
-[![Website](https://img.shields.io/badge/gauravsinhaweb.com-up-green)](https://gauravsinhaweb.com)
+[![Website](https://img.shields.io/badge/GAURAVSINHAWEB.COM-up-green)](https://gauravsinhaweb.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gauravsinhaweb?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/gauravsinhaweb)
 
 ## I'm an open source developer and also a tech enthusiast.!
@@ -39,19 +39,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/gauravsinhaweb/gauravsinhaweb/pull/14) in [gauravsinha/gauravsinhaweb](https://github.com/gauravsinhaweb/gauravsinhaweb)
-2. 🗣 Commented on [#14](https://github.com/gauravsinhaweb/gauravsinhaweb/issues/14) in [gauravsinhaweb/gauravsinhaweb](https://github.com/gauravsinhaweb/gauravsinhaweb)
-3. ❌ Closed PR [#7](https://github.com/gauravsinhaweb/gauravsinhaweb/pull/7) in [gauravsinhaweb/gauravsinhaweb](https://github.com/gauravsinhaweb/gauravsinhaweb)
-4. 🎉 Merged PR [#6](https://github.com/gauravsinhaweb/gauravsinhaweb/pull/6) in [gauravsinhaweb/gauravsinhaweb](https://github.com/gauravsinhaweb/gauravsinhaweb)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-<!--END_SECTION:activity-->
-
-</details>
 
   <summary>:zap: GitHub Stats</summary>
 
