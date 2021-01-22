@@ -39,10 +39,7 @@
 
 ---
 
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="gauravsinhaweb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gauravsinhaweb&show_icons=true&hide_border=true" />
-
+  
 [website]: https://gauravsinhaweb.com
 [twitter]: https://twitter.com/gauravsinhaweb
 [instagram]: https://instagram.com/gauravsinh18._
