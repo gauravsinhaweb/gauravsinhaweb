@@ -6,7 +6,7 @@
 ## I'm an open source developer and also a tech enthusiast.!
 
 - 🌱 I made responsive Apps, Games and Websites.
-- ✨ Having an experience with framework and softwares like JS Es5/ Es6 /Es7, React, Git/ github, Bootstrap, Material UI, Figma.
+- ✨ Having an experience with framework and softwares like JS Es6 /Es7, React, Git/ github, Bootstrap, Material UI, Figma, Terminal.
 - ⚡ Also, I’m a 2nd year Engineering Student who loves Coding and Designing :)
 
 ### Connect with me:
