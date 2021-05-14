@@ -1,6 +1,6 @@
 ### Hey, I'm Gaurav Sinha [website] 👋
 
-[![Website](https://img.shields.io/badge/GAURAVSINHAWEB.COM-up-green)](https://gauravsinhaweb.com)
+[![Website](https://img.shields.io/badge/GAURAVSINHAWEB.ME-up-green)](https://gauravsinhaweb.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gauravsinhaweb?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/gauravsinhaweb)
 
 ## I'm an open source developer and also a tech enthusiast.!
